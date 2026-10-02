@@ -1,74 +1,114 @@
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=180&section=header&text=UIBREAKER%20%7C%20NH%E1%BA%ACT%20NAM&fontSize=38&fontAlignY=38&animation=twinkling&fontColor=38bdf8"
-    width="100%"
-  />
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-  <h3>Frontend Developer • UI Engineering • Creative Web Experiences</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:0c4a6e,100:020617&height=230&section=header&text=UIBREAKER%20%7C%20NH%E1%BA%ACT%20NAM&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=38bdf8&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineering%20%E2%80%A2%20Interactive%20Experiences&descAlignY=56&descSize=15"
+  width="100%"
+/>
 
-  <p>
-    Tôi tập trung vào việc biến ý tưởng thành những sản phẩm số
-    <strong>đẹp, trực quan, mượt mà và có trải nghiệm sử dụng tốt.</strong>
-  </p>
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="620"
+/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;X%C3%A2y+d%E1%BB%B1ng+giao+di%E1%BB%87n+hi%E1%BB%87n+%C4%91%E1%BA%A1i+v%C3%A0+tr%E1%BA%A3i+nghi%E1%BB%87m+m%C6%B0%E1%BB%A3t+m%C3%A0;Quan+t%C3%A2m+%C4%91%E1%BA%BFn+UI%2FUX+%E2%80%A2+Performance+%E2%80%A2+Clean+Architecture;Kh%C3%A1m+ph%C3%A1+Lua+%E2%80%A2+L%C3%96VE2D+%E2%80%A2+Interactive+Systems"
-    alt="Typing SVG"
-  />
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nh%E1%BA%ADt+Nam.;Frontend+Developer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;T%C3%B4i+x%C3%A2y+d%E1%BB%B1ng+nh%E1%BB%AFng+giao+di%E1%BB%87n+nhanh%2C+m%C6%B0%E1%BB%A3t+v%C3%A0+c%C3%B3+chi%E1%BB%81u+s%C3%A2u.;UI%2FUX+%E2%80%A2+Animation+%E2%80%A2+Architecture+%E2%80%A2+Performance;Kh%C3%A1m+ph%C3%A1+Lua+%E2%80%A2+L%C3%96VE2D+%E2%80%A2+Shaders+%E2%80%A2+Interactive+Systems"
+  alt="Typing introduction"
+/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=UIBreaker&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/UIBreaker?label=FOLLOWERS&style=for-the-badge&color=0f172a&labelColor=0284c7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif"
+  width="100%"
+/>
 
 </div>
 
 ---
 
-## 👋 Xin chào, tôi là Nhật Nam
+# 👋 Xin chào, tôi là Nhật Nam
 
-Tôi là một **Frontend Developer** yêu thích việc xây dựng những giao diện có tính thẩm mỹ cao nhưng vẫn đảm bảo hiệu năng, khả năng mở rộng và trải nghiệm sử dụng thực tế.
+<div>
 
-Tôi đặc biệt quan tâm đến sự giao thoa giữa:
+<img
+  align="right"
+  width="310"
+  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+/>
 
-- **Thiết kế giao diện**
-- **Frontend Engineering**
-- **Trải nghiệm người dùng**
-- **Animation & Interaction**
-- **Kiến trúc ứng dụng**
-- **Các hệ thống tương tác thời gian thực**
+Tôi là một **Frontend Developer** tập trung vào việc xây dựng những sản phẩm số có giao diện hiện đại, hiệu năng tốt và trải nghiệm sử dụng tự nhiên.
 
-Mục tiêu của tôi không đơn thuần là tạo ra một giao diện “đẹp”.
+Tôi đặc biệt quan tâm đến những sản phẩm nơi **thiết kế và kỹ thuật phải hoạt động như một thể thống nhất**.
 
-Tôi muốn tạo ra những sản phẩm mà người dùng có thể **cảm nhận được sự chỉn chu ngay từ lần tương tác đầu tiên**.
+Tôi không chỉ muốn một giao diện trông đẹp.
 
----
+Tôi muốn nó:
 
-## ✦ Định hướng phát triển
+- phản hồi nhanh;
+- chuyển động tự nhiên;
+- có cấu trúc rõ ràng;
+- dễ mở rộng;
+- mang lại cảm giác sử dụng thực sự tốt.
 
-```text
-UI / UX
-   ↓
-Frontend Engineering
-   ↓
-Interaction & Motion
-   ↓
-Application Architecture
-   ↓
-Performance & Scalability
-   ↓
-Creative Interactive Systems
-```
+<br/>
 
-Tôi đang từng bước mở rộng năng lực từ phát triển giao diện sang xây dựng các hệ thống tương tác phức tạp hơn, với mục tiêu có thể kiểm soát toàn bộ quá trình từ:
+Hiện tại tôi tập trung phát triển sâu hơn ở:
 
-**Ý tưởng → Thiết kế → Kiến trúc → Phát triển → Tối ưu → Triển khai**
+**Frontend Engineering · UI/UX · Motion · Architecture · Performance · Interactive Systems**
+
+</div>
+
+<br clear="right"/>
 
 ---
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=A855F7&center=true&vCenter=true&width=650&lines=C%C3%94NG+NGH%E1%BB%86+%26+C%C3%94NG+C%E1%BB%A4;TECHNOLOGY+STACK"
+  alt="Technology title"
+/>
+
+</div>
 
 ## ⚡ Công nghệ tôi sử dụng
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,lua,mysql,supabase,git,figma,vscode&theme=dark"
-  alt="Technology Stack"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,lua,mysql,supabase,git,github,figma,vscode,vercel&theme=dark&perline=8"
+/>
+
+<br/><br/>
+
+<img
+  src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"
+  width="55"
+/>
+
+<img
+  src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"
+  width="55"
+/>
+
+<img
+  src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"
+  width="55"
 />
 
 </div>
@@ -77,287 +117,467 @@ Tôi đang từng bước mở rộng năng lực từ phát triển giao diện
 
 ```text
 FRONTEND
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3
+────────────────────────────────────────────
+React.js        Next.js
+TypeScript      JavaScript
+Tailwind CSS    HTML5 / CSS3
+
 
 BACKEND & DATA
-Node.js • REST API • Supabase • MySQL • Cloud Database
+────────────────────────────────────────────
+Node.js         REST API
+Supabase        MySQL
+Cloud Database
 
-INTERACTIVE DEVELOPMENT
-Lua • LÖVE2D • Animation Systems • State Management • Data Structures
 
-DESIGN & DEVELOPMENT TOOLS
-Figma • Git • GitHub • Visual Studio Code • Vercel
+INTERACTIVE SYSTEMS
+────────────────────────────────────────────
+Lua             LÖVE2D
+Shaders         Animation Systems
+State Systems   Data Structures
+
+
+TOOLS
+────────────────────────────────────────────
+Git / GitHub    Figma
+VS Code         Vercel
 ```
 
 ---
 
-## 🧠 Cách tôi tiếp cận một sản phẩm
+<div align="center">
 
-Tôi ưu tiên cân bằng giữa **thiết kế, kỹ thuật và trải nghiệm người dùng**.
+<img
+  src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4f2a-8883-7a4cfb8cf5f3.gif"
+  width="100%"
+/>
+
+</div>
+
+# ✦ Tôi xây dựng sản phẩm như thế nào
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi%E1%BB%83u+v%E1%BA%A5n+%C4%91%E1%BB%81+%E2%86%92+Thi%E1%BA%BFt+k%E1%BA%BF+tr%E1%BA%A3i+nghi%E1%BB%87m;Thi%E1%BA%BFt+k%E1%BA%BF+tr%E1%BA%A3i+nghi%E1%BB%87m+%E2%86%92+X%C3%A2y+d%E1%BB%B1ng+ki%E1%BA%BFn+tr%C3%BAc;Ki%E1%BA%BFn+tr%C3%BAc+%E2%86%92+Ph%C3%A1t+tri%E1%BB%83n+h%E1%BB%87+th%E1%BB%91ng;Ph%C3%A1t+tri%E1%BB%83n+%E2%86%92+Ki%E1%BB%83m+th%E1%BB%AD+%E2%86%92+T%E1%BB%91i+%C6%B0u;T%E1%BB%91i+%C6%B0u+%E2%86%92+Tri%E1%BB%83n+khai+%E2%86%92+C%E1%BA%A3i+ti%E1%BA%BFn"
+  alt="Development process"
+/>
+
+</div>
 
 ```text
-01. Hiểu vấn đề
-
-        ↓
-
-02. Xác định trải nghiệm người dùng
-
-        ↓
-
-03. Thiết kế cấu trúc giao diện
-
-        ↓
-
-04. Xây dựng kiến trúc ứng dụng
-
-        ↓
-
-05. Phát triển hệ thống
-
-        ↓
-
-06. Tối ưu hiệu năng và tương tác
-
-        ↓
-
-07. Kiểm thử và cải thiện sản phẩm
+         Ý TƯỞNG
+            │
+            ▼
+    ┌────────────────┐
+    │   TRẢI NGHIỆM  │
+    └───────┬────────┘
+            │
+            ▼
+    ┌────────────────┐
+    │    GIAO DIỆN   │
+    └───────┬────────┘
+            │
+            ▼
+    ┌────────────────┐
+    │    KIẾN TRÚC   │
+    └───────┬────────┘
+            │
+            ▼
+    ┌────────────────┐
+    │    PHÁT TRIỂN  │
+    └───────┬────────┘
+            │
+            ▼
+    ┌────────────────┐
+    │      TỐI ƯU    │
+    └───────┬────────┘
+            │
+            ▼
+         SẢN PHẨM
 ```
 
-Một giao diện tốt với tôi cần đạt được ba yếu tố:
-
-**Rõ ràng trong thiết kế.**
-
-**Ổn định trong kỹ thuật.**
-
-**Tự nhiên khi tương tác.**
-
 ---
+
+<div align="center">
+
+<img
+  src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif"
+  width="90"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1400&color=38BDF8&center=true&vCenter=true&width=650&lines=D%E1%BB%B0+%C3%81N+N%E1%BB%94I+B%E1%BA%ACT;SELECTED+PROJECTS"
+  alt="Projects"
+/>
+
+</div>
 
 # 🚀 Dự án nổi bật
 
-<table width="100%">
+<table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### Hệ Thống Báo Cáo Giao Ban
-
-`Healthcare Management Platform`
-
-Ứng dụng hỗ trợ số hóa quy trình tổng hợp và quản lý báo cáo giao ban trong môi trường bệnh viện.
-
-**Điểm nổi bật**
-
-- Quản lý dữ liệu báo cáo tập trung
-- Tổ chức và truy xuất thông tin nhanh
-- Tự động hóa một phần quy trình tổng hợp dữ liệu
-- Thiết kế giao diện phù hợp với môi trường nghiệp vụ
-- Triển khai ứng dụng trên nền tảng cloud
-
-**Công nghệ**
-
-`React` `Node.js` `Cloud Database`
+<h3 align="center">
+Hệ Thống Báo Cáo Giao Ban
+</h3>
 
 <p align="center">
-  <a href="https://github.com/UIBreaker/Hospital-Report-System">
-    <strong>→ Xem mã nguồn</strong>
-  </a>
+<code>Healthcare Management Platform</code>
+</p>
+
+Ứng dụng hỗ trợ số hóa quá trình tổng hợp và quản lý dữ liệu giao ban trong môi trường bệnh viện.
+
+### Điểm nổi bật
+
+- Quản lý báo cáo tập trung
+- Truy xuất thông tin nhanh
+- Tự động hóa quá trình tổng hợp
+- Quản lý dữ liệu nghiệp vụ
+- Triển khai trên nền tảng cloud
+
+### Công nghệ
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,vercel&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/UIBreaker/Hospital-Report-System">
+<img src="https://img.shields.io/badge/XEM_MÃ_NGUỒN-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ENGRAM
-
-`Vocabulary Learning Platform`
-
-Ứng dụng hỗ trợ học và ghi nhớ từ vựng tiếng Anh với trải nghiệm học tập trực quan và hệ thống lưu trữ tiến trình.
-
-**Điểm nổi bật**
-
-- Quản lý bộ từ vựng cá nhân
-- Theo dõi tiến trình học
-- Phản hồi giao diện nhanh
-- Đồng bộ dữ liệu
-- Tập trung vào trải nghiệm học tập tối giản
-
-**Công nghệ**
-
-`TypeScript` `Tailwind CSS` `Supabase`
+<h3 align="center">
+ENGRAM
+</h3>
 
 <p align="center">
-  <a href="https://github.com/UIBreaker/ENGRAM">
-    <strong>→ Xem mã nguồn</strong>
-  </a>
+<code>Vocabulary Learning Platform</code>
+</p>
+
+Ứng dụng hỗ trợ học và ghi nhớ từ vựng tiếng Anh với trải nghiệm trực quan và hệ thống lưu trữ tiến trình.
+
+### Điểm nổi bật
+
+- Quản lý bộ từ vựng
+- Theo dõi quá trình học
+- Giao diện phản hồi nhanh
+- Đồng bộ dữ liệu
+- Trải nghiệm tối giản
+
+### Công nghệ
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,tailwind,supabase,vercel&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/UIBreaker/ENGRAM">
+<img src="https://img.shields.io/badge/XEM_MÃ_NGUỒN-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
 </p>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 2D Card-Based Interactive System
-
-`Lua / LÖVE2D`
-
-Một dự án nghiên cứu và phát triển hệ thống tương tác dựa trên thẻ bài bằng Lua và LÖVE2D.
-
-Dự án tập trung vào việc xây dựng các thành phần nền tảng như:
-
-- Quản lý tập dữ liệu thẻ bài
-- Hệ thống trạng thái
-- Quản lý hiệu ứng
-- Animation
-- Shader
-- Hệ thống tính toán
-- Quản lý tài nguyên
-- Logic tương tác
-- Kiến trúc module
-- Hệ thống giao diện tùy chỉnh
-
-Dự án đồng thời là môi trường để tôi nghiên cứu sâu hơn về:
-
-`Lua` `LÖVE2D` `Shaders` `Game Architecture` `Animation Systems`
-
-<p align="center">
-  <a href="https://github.com/UIBreaker/Lua.TCG.New">
-    <strong>→ Xem mã nguồn</strong>
-  </a>
-</p>
-
----
-
-# ✨ Tôi quan tâm đến
-
 <table>
+
 <tr>
 
-<td align="center" width="25%">
-<strong>UI Engineering</strong>
-<br/><br/>
-Thiết kế giao diện có cấu trúc, khả năng tái sử dụng và mở rộng tốt.
+<td width="42%" align="center">
+
+<img
+  src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif"
+  width="300"
+/>
+
 </td>
 
-<td align="center" width="25%">
-<strong>Interaction Design</strong>
-<br/><br/>
-Tạo các tương tác giúp sản phẩm trở nên tự nhiên và có chiều sâu.
-</td>
+<td width="58%" valign="top">
 
-<td align="center" width="25%">
-<strong>Performance</strong>
-<br/><br/>
-Tối ưu tốc độ, rendering và trải nghiệm trên nhiều thiết bị.
-</td>
+## 2D Card-Based Interactive System
 
-<td align="center" width="25%">
-<strong>Architecture</strong>
-<br/><br/>
-Xây dựng hệ thống rõ ràng, dễ bảo trì và phát triển lâu dài.
+`Lua · LÖVE2D · Shaders · Animation`
+
+Một hệ thống tương tác 2D được xây dựng bằng Lua và LÖVE2D.
+
+Dự án là nơi tôi nghiên cứu sâu hơn về:
+
+- kiến trúc module;
+- animation;
+- shader;
+- quản lý trạng thái;
+- cấu trúc dữ liệu;
+- quản lý tài nguyên;
+- hệ thống tính toán;
+- xử lý tương tác;
+- thiết kế giao diện tùy chỉnh.
+
+<p>
+
+<a href="https://github.com/UIBreaker/Lua.TCG.New">
+<img src="https://img.shields.io/badge/XEM_MÃ_NGUỒN-LUA.TCG.NEW-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+</a>
+
+</p>
+
 </td>
 
 </tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/216656952-f7664f64-2b77-4c70-9b4c-6f0f1de0e080.gif"
+  width="100%"
+/>
+
+</div>
+
+# 🧠 Những lĩnh vực tôi tập trung
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img
+src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+width="70"
+/>
+
+### UI Engineering
+
+Thiết kế giao diện có cấu trúc rõ ràng, tái sử dụng tốt và dễ mở rộng.
+
+</td>
+
+<td align="center" width="25%">
+
+<img
+src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
+width="70"
+/>
+
+### Interaction
+
+Tạo chuyển động và phản hồi giúp sản phẩm có chiều sâu hơn.
+
+</td>
+
+<td align="center" width="25%">
+
+<img
+src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+width="70"
+/>
+
+### Performance
+
+Tối ưu rendering, tốc độ tải và trải nghiệm trên nhiều thiết bị.
+
+</td>
+
+<td align="center" width="25%">
+
+<img
+src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
+width="70"
+/>
+
+### Architecture
+
+Xây dựng hệ thống dễ bảo trì, dễ kiểm thử và phát triển lâu dài.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
 # 🔬 Hiện tại tôi đang nghiên cứu
 
-```text
-◦ Advanced Frontend Architecture
-◦ UI Motion & Micro-interactions
-◦ Web Performance Optimization
-◦ Shader Programming
-◦ Lua Architecture
-◦ LÖVE2D
-◦ Procedural Animation
-◦ Interactive System Design
-◦ Rendering Techniques
-◦ Software Architecture
-```
+<div align="center">
 
-Tôi đặc biệt hứng thú với những sản phẩm nằm giữa **phần mềm truyền thống và trải nghiệm tương tác cao**.
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=850&color=A855F7&center=true&vCenter=true&width=800&lines=Advanced+Frontend+Architecture;UI+Motion+%26+Micro-interactions;Web+Performance+Optimization;Shader+Programming;Lua+Architecture;L%C3%96VE2D;Procedural+Animation;Rendering+Techniques;Interactive+System+Design;Software+Architecture"
+alt="Research topics"
+/>
 
----
+</div>
 
-# 📊 GitHub
+<br/>
 
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=UIBreaker&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIBreaker&layout=compact&hide_border=true&theme=transparent"
+src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+width="420"
 />
 
 </div>
 
 ---
 
-# 🧩 Nguyên tắc phát triển
+<div align="center">
 
-```text
-Design with purpose.
-Code with structure.
-Optimize with evidence.
-Build for people.
-```
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=HO%E1%BA%A0T+%C4%90%E1%BB%98NG+GITHUB;DEVELOPMENT+ACTIVITY"
+alt="Github activity"
+/>
 
-> Thiết kế phải có lý do.  
-> Code phải có cấu trúc.  
-> Tối ưu phải dựa trên dữ liệu.  
-> Và sản phẩm cuối cùng phải phục vụ con người.
+</div>
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=UIBreaker&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&icon_color=a855f7"
+/>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIBreaker&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=UIBreaker&theme=transparent&hide_border=true&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
+width="70%"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=UIBreaker&bg_color=00000000&color=38bdf8&line=a855f7&point=ffffff&area=true&hide_border=true"
+width="98%"
+/>
+
+</div>
 
 ---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/UIBreaker/UIBreaker/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="Contribution Snake"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+src="https://media.giphy.com/media/Lp9msH65vVX2RYpfvf/giphy.gif"
+width="85"
+/>
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=600&lines=K%E1%BA%BET+N%E1%BB%90I;LET'S+CONNECT"
+alt="Connect"
+/>
+
+</div>
 
 # 🌐 Kết nối
 
 <div align="center">
 
-Tôi luôn sẵn sàng trao đổi về:
+Tôi luôn sẵn sàng trao đổi về
 
-**Frontend • UI/UX • Web Development • Interactive Experiences • Lua • LÖVE2D**
+**Frontend · UI/UX · Web Development · Animation · Lua · LÖVE2D · Interactive Experiences**
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/UIBreaker">
-  <img
-    src="https://img.shields.io/badge/GitHub-UIBreaker-181717?style=for-the-badge&logo=github"
-  />
+<img src="https://img.shields.io/badge/GitHub-UIBreaker-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:your-email@example.com">
-  <img
-    src="https://img.shields.io/badge/Email-Liên_hệ-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Email-Liên_hệ-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img
+src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif"
+width="70"
+/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,24,12,1&height=110&section=footer"
-  width="100%"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Thi%E1%BA%BFt+k%E1%BA%BF+tr%E1%BA%A3i+nghi%E1%BB%87m.;X%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng.;T%E1%BB%91i+%C6%B0u+t%E1%BB%ABng+chi+ti%E1%BA%BFt.;Kh%C3%B4ng+ng%E1%BB%ABng+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+c%E1%BA%A3i+ti%E1%BA%BFn."
 />
-
-<sub>
-Thiết kế trải nghiệm. Xây dựng hệ thống. Không ngừng cải thiện.
-</sub>
 
 <br/>
 
-<strong>UIBREAKER • NHẬT NAM</strong>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c4a6e,70:4c1d95,100:020617&height=150&section=footer&animation=twinkling"
+width="100%"
+/>
+
+<strong>UIBREAKER · NHẬT NAM</strong>
+
+<br/>
+
+<sub>
+Frontend Developer · UI Engineering · Interactive Systems
+</sub>
 
 </div>
