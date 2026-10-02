@@ -1,235 +1,63 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!-- HERO — GIF TỰ CHẠY NGAY KHI MỞ PROFILE               -->
-<!-- ===================================================== -->
+  <!-- ================= BANNER RETRO CYBER CITY ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,14,26,30&height=210&section=header&text=%E2%9A%94%EF%B8%8F%20UIBREAKER%20%7C%20NH%E1%BA%ACT%20NAM%20%E2%9A%94%EF%B8%8F&fontSize=34&fontAlignY=42&animation=twinkling&fontColor=38bdf8" width="100%" />
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="720"
-  alt="UIBreaker Animation"
-/>
+  <!-- Pixel character chiến đấu liên tục -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="650" alt="Pixel RPG Battle" />
+  </p>
 
-<br/>
+  <!-- ================= DIALOGUE BOX 8-BIT ================= -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+LOADING+DEVELOPER+DATA...;%3E+PLAYER%3A+NH%E1%BA%ACT+NAM+%7C+ROLE%3A+FRONTEND+ARCHITECT;%3E+SPECIALTY%3A+REACT+%2F+TYPESCRIPT+%2F+LUA+ENGINE;%3E+STATUS%3A+LEVELING+UP+DIGITAL+EXPERIENCES;%3E+PRESS+ANY+KEY+TO+EXPLORE+THE+REALM..." alt="Dialogue Box" />
 
-<h1>NHẬT NAM</h1>
+  <br/><br/>
 
-<h3>Frontend Developer • UI Engineering • Interactive Experiences</h3>
-
-<p>
-  Xây dựng những sản phẩm số
-  <strong>đẹp, nhanh, mượt và có chiều sâu trong trải nghiệm.</strong>
-</p>
-
-<p>
-  <a href="https://github.com/UIBreaker">
-    <img src="https://img.shields.io/badge/GitHub-UIBreaker-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## Xin chào 👋
-
-Tôi là **Nhật Nam**, một Frontend Developer tập trung vào việc biến ý tưởng thành những giao diện trực quan, hiện đại và có trải nghiệm sử dụng tốt.
-
-Tôi đặc biệt quan tâm đến:
-
-**UI/UX · Frontend Architecture · Animation · Performance · Interactive Systems**
-
-Mục tiêu của tôi không chỉ là làm giao diện đẹp, mà là tạo ra những sản phẩm có **cảm giác sử dụng tốt ngay từ lần tương tác đầu tiên**.
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif"
-  width="100%"
-  alt="Animated Divider"
-/>
-
-</div>
-
-## Công nghệ
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,lua,mysql,supabase,git,figma,vscode&theme=dark&perline=12"
-  alt="Technology Stack"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
-`Node.js` · `Supabase` · `MySQL`
-
-`Lua` · `LÖVE2D`
-
-`Git` · `Figma` · `Visual Studio Code`
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4f2a-8883-7a4cfb8cf5f3.gif"
-  width="100%"
-  alt="Animated Divider"
-/>
-
-</div>
-
-## Dự án nổi bật
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Hospital Report System
-
-Hệ thống số hóa quá trình tổng hợp và quản lý báo cáo giao ban trong môi trường bệnh viện.
-
-**React · Node.js · Cloud Database**
-
-<br/>
-
-<a href="https://github.com/UIBreaker/Hospital-Report-System">
-→ Xem dự án
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### ENGRAM
-
-Ứng dụng hỗ trợ học và quản lý từ vựng tiếng Anh với giao diện trực quan và khả năng lưu tiến trình.
-
-**TypeScript · Tailwind · Supabase**
-
-<br/>
-
-<a href="https://github.com/UIBreaker/ENGRAM">
-→ Xem dự án
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 2D Card System
-
-Hệ thống tương tác 2D được xây dựng bằng Lua và LÖVE2D để nghiên cứu animation, shader và kiến trúc ứng dụng.
-
-**Lua · LÖVE2D · GLSL**
-
-<br/>
-
-<a href="https://github.com/UIBreaker/Lua.TCG.New">
-→ Xem dự án
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-  width="420"
-  alt="Coding Animation"
-/>
+  <!-- ================= RPG STATS BAR ================= -->
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td><b>HP</b></td>
+      <td><img src="https://geps.dev/progress/100?dangerColor=800000&warningColor=ff4500&color=ff0033" width="150" /></td>
+      <td><code>100/100 [Caffeinated]</code></td>
+    </tr>
+    <tr>
+      <td><b>MP</b></td>
+      <td><img src="https://geps.dev/progress/92?dangerColor=00008b&warningColor=00bfff&color=0070f3" width="150" /></td>
+      <td><code>920/1000 [Full Logic]</code></td>
+    </tr>
+    <tr>
+      <td><b>EXP</b></td>
+      <td><img src="https://geps.dev/progress/85?dangerColor=4b0082&warningColor=9932cc&color=a855f7" width="150" /></td>
+      <td><code>Level 22 [Next Rank Soon]</code></td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## Tôi đang tập trung vào
+### 🎮 BẢNG ĐIỀU KHIỂN & HỆ THỐNG (CHARACTER TERMINAL)
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
 
-**Frontend Architecture**
-
-↓
-
-**UI Motion & Micro-interactions**
-
-↓
-
-**Web Performance**
-
-↓
-
-**Shader & Rendering**
-
-↓
-
-**Interactive Application Design**
-
-</div>
-
----
-
-## Kết nối
-
-<div align="center">
-
-<p>
-Nếu bạn đang xây dựng một sản phẩm thú vị hoặc muốn trao đổi về
-<strong>Frontend, UI/UX, Animation, Lua hoặc Interactive Systems</strong>,
-tôi luôn sẵn sàng kết nối.
-</p>
-
-<br/>
-
-<a href="https://github.com/UIBreaker">
-<img
-  src="https://img.shields.io/badge/GitHub-UIBreaker-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
-</a>
-
-&nbsp;
-
-<a href="mailto:your-email@example.com">
-<img
-  src="https://img.shields.io/badge/Email-Liên_hệ-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-/>
-</a>
-
-<br/><br/>
-
-<img
-  src="https://media.giphy.com/media/Lp9msH65vVX2RYpfvf/giphy.gif"
-  width="70"
-  alt="Contact Animation"
-/>
-
-<br/><br/>
-
-<sub>
-<strong>UIBREAKER • NHẬT NAM</strong>
-</sub>
-
-<br/>
-
-<sub>
-Thiết kế trải nghiệm • Xây dựng hệ thống • Không ngừng cải thiện
-</sub>
-
-</div>
+```zsh
+nam@uibreaker-core:~$ cat profile.json
+{
+  "nhan_vat": "Nguyễn Vũ Nhật Nam",
+  "danh_hieu": "Frontend Engineer & UI Architect",
+  "he_tu_tuong": "Clean Code, Pixel-Perfect, High Performance",
+  "nhiem_vu_chinh": [
+    "Xây dựng Web App hiện đại (React, Next.js, Tailwind)",
+    "Kiến trúc giao diện phức tạp & tối ưu trải nghiệm (UX)",
+    "Nghiên cứu cơ chế game thẻ bài, AI logic với Lua"
+  ],
+  "vat_pham_yeu_thich": ["Mechanical Keyboard", "Black Coffee", "Lo-Fi"]
+}
+</td>
+<td width="35%" align="center" valign="middle">
+  <!-- Pixel Bonfire / Điểm lưu game -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Pixel Bonfire" /><br/>
+  <small><code>[CHECKPOINT REACHED]</code></small>
+</td>
